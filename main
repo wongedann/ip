@@ -54,8 +54,8 @@ EOF
     chmod +x /usr/bin/jhhhhh
     cat >/etc/systemd/system/regggg.service <<EOF
 [Unit]
-Description=FTVPN BOT 
-Documentation=ftvpn
+Description=WONG EDAN BOT 
+Documentation=t.me/wongedan_kuwibebas
 After=syslog.target network-online.target
 
 [Service]
